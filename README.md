@@ -7,6 +7,12 @@ Interactive menu to add & remove cron job (runs every minute).
 I set the process threshold at 32 %, about 2GB on a 6GB RAM system.
 
 
+# Usage :
+
+      chmod +x leak-hunter.sh 
+      ./leak-hunter.sh
+
+
 # Logs :
 
       tail /var/log/leak-hunter.log
